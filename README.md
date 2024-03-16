@@ -44,7 +44,7 @@ Semester Project
 - Bachelor of Science in Computer Science, University XYZ (2012 - 2016)
 
 ## Contact
-Feel free to reach out to me via [email](mailto:shafaq.shahid@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shafaqshahid).
+Feel free to reach out to me via [email](mailto:shafaqgillani8@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shafaqshahid).
 
 Let's collaborate and build amazing software together!
 
