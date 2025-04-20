@@ -1,50 +1,86 @@
-# Shafaq Shahid - Software Engineer
+# 👩‍💻 Shafaq Shahid - Software Quality Assurance Engineer | Software Engineer
 
-## Introduction
-Welcome to my GitHub profile! I'm Shafaq Shahid, a passionate Software Engineer with expertise in web development and quality assurance. I have extensive experience in building web applications using HTML, CSS, JavaScript, and the MERN (MongoDB, Express.js, React.js, Node.js) stack. With a strong focus on quality assurance practices, I ensure that the software I develop meets the highest standards of functionality, performance, and user experience.
+## 👋 Introduction
+Welcome to my GitHub profile! I'm **Shafaq Shahid**, a passionate **Software Quality Assurance (SQA) Engineer** and **Software Engineer** with a strong background in web development and software testing. With years of hands-on experience, I specialize in ensuring the reliability, functionality, and performance of web applications.
 
-## Skills
-- **Web Development**: Proficient in HTML, CSS, JavaScript.
-- **MERN Stack**: Experienced in building full-stack applications using MongoDB, Express.js, React.js, Node.js.
-- **Quality Assurance**: Skilled in manual and automated testing, ensuring software reliability and robustness.
-- **Version Control**: Proficient in Git, GitHub for version control and collaboration.
-- **Problem Solving**: Strong analytical and problem-solving skills to tackle complex technical challenges.
-- **Team Collaboration**: Effective communicator and team player, adept at working in agile environments.
+I thrive at the intersection of **development and quality assurance**, bringing value by not only writing code but ensuring it's tested, robust, and user-ready.
 
-## Projects
-### Project 1: Care Quest Website
-- Developed a full-fledged charity system for needy and helpers website using the MERN stack.
-- Implemented user authentication, charity listing, Hope seeker could apply in campaign,Unique token generation , Trutees who can rate or report users, Admin dashboard and much more.
-- Utilized Redux for state management and JWT for authentication.
+---
 
-### Project 2: Bakhtawar Mehmood-Personal Portfolio
-- Built a portfolio with html, css , js , angular js, SQL.
+## 🧰 Skills
 
-### Project 3: Zamin-Women Safety App | Mobile App
-Semester Project
-- Android-Java
+### 🧪 Quality Assurance (Core Expertise)
+- Manual Testing | Functional, Regression, Integration, and UAT
+- Automation Testing | Playwright, Cucumber (Learning Phase)
+- API Testing | Postman, REST APIs
+- Performance Testing | JMeter (Basics)
+- Test Case Design, Bug Reporting, and Test Planning
+- QA Tools: Jira, TestRail, Bugzilla
 
-### Project 4: Quran Insight | Website
-Semester Project
-- Spring Boot, SQL
+### 💻 Web Development
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, SQL
+- **Frameworks & Libraries:** React.js, Redux
+- **Version Control:** Git, GitHub
+
+### 🧠 Soft Skills
+- Problem Solving & Critical Thinking
+- Team Collaboration in Agile Environments
+- Effective Communication & Documentation
+
+---
+
+## 🚀 Projects
+
+### 🧑‍🤝‍🧑 Care Quest - Charity System
+A MERN-stack-based platform that connects helpers with those in need.
+- User Authentication (JWT)
+- Role-based dashboards (Admin, Trustee, Hope Seeker)
+- Campaign listings, Ratings, Reports
+- State Management: Redux  
+[🔗 GitHub Link or Demo if available]
+
+### 💼 Bakhtawar Mehmood - Personal Portfolio
+Built using HTML, CSS, JavaScript, AngularJS, and SQL.
+- Responsive UI showcasing professional portfolio
+- Contact and experience sections  
+[🔗 GitHub Link or Demo if available]
+
+### 🛡 Zamin - Women Safety App (Mobile App)
+- Built with Android Java as a university semester project
+- Focused on emergency features and safety tracking
+
+### 📖 Quran Insight
+- Web application using Spring Boot and SQL
+- Displays Quranic insights, surahs, and tafsir  
+[🔗 GitHub Link or Demo if available]
+
+---
+
+## 💼 Experience
+
+### 🧪 Software Quality Assurance Engineer | Techtronix Corp Pvt LTD 
+*2024 - Continue*  
+- Developed detailed test plans and test cases
+- Executed manual and automation tests
+- Ensured bug-free releases and collaborated with developers to fix issues
 
 
-## Experience
-### Software Engineer, XYZ Tech (2018 - Present)
-- Developed and maintained web applications using the MERN stack.
-- Conducted thorough testing to ensure high-quality software deliverables.
-- Collaborated with cross-functional teams to meet project deadlines and deliverables.
 
-### Quality Assurance Engineer, ABC Solutions (2016 - 2018)
-- Led the QA efforts for multiple projects, ensuring adherence to quality standards.
-- Developed test plans, test cases, and executed manual and automated tests.
-- Worked closely with developers to identify and resolve software defects.
+---
 
-## Education
-- Bachelor of Science in Computer Science, University XYZ (2012 - 2016)
+## 🎓 Education
+**Bachelor of Science in Software Engineering**  
+*Riphah International University (2020- 2024)*
 
-## Contact
-Feel free to reach out to me via [email](mailto:shafaqgillani8@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shafaqshahid).
+---
 
-Let's collaborate and build amazing software together!
+## 📬 Contact Me
+- 📧 Email: shafaqgillani8@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/shafaqshahid](#)
 
+
+---
+
+### 🙌 Let's connect and build quality software together!
