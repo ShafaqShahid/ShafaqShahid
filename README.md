@@ -1,5 +1,5 @@
 
-# 👩‍💻 Shafaq Shahid - Software Quality Assurance Engineer | Software Engineer
+## 👩‍💻 Shafaq Shahid - Software Quality Assurance Engineer | Software Engineer
 
 ## 👋 Introduction
 Welcome to my GitHub profile! I'm **Shafaq Shahid**, a passionate **Software Quality Assurance (SQA) Engineer** and **Software Engineer** with a strong background in web development and software testing. With years of hands-on experience, I specialize in ensuring the reliability, functionality, and performance of web applications.
