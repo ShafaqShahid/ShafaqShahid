@@ -1,8 +1,18 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/mubashar-azad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/mubasharazad12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mubashar-azad)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/mubasharazad12)  
-📞 **+92 315 3375533**  
-✉️ **mubasharazad3@gmail.com**
+<p align="center">
+  📞 <strong>+92 315 3375533</strong>  
+  &nbsp;|&nbsp;  
+  ✉️ <strong><a href="mailto:mubasharazad3@gmail.com">mubasharazad3@gmail.com</a></strong>
+</p>
 # 👩‍💻 Shafaq Shahid - Software Quality Assurance Engineer | Software Engineer
 
 ## 👋 Introduction
