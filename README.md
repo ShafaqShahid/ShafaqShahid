@@ -40,13 +40,13 @@ A MERN-stack-based platform that connects helpers with those in need.
 - Role-based dashboards (Admin, Trustee, Hope Seeker)
 - Campaign listings, Ratings, Reports
 - State Management: Redux  
-[🔗 GitHub Link or Demo if available]
+🔗 https://github.com/ShafaqShahid/CarequestBackend
 
 ### 💼 Bakhtawar Mehmood - Personal Portfolio
 Built using HTML, CSS, JavaScript, AngularJS, and SQL.
 - Responsive UI showcasing professional portfolio
 - Contact and experience sections  
-[🔗 GitHub Link or Demo if available]
+🔗 https://github.com/ShafaqShahid/BakhtawarMehmood
 
 ### 🛡 Zamin - Women Safety App (Mobile App)
 - Built with Android Java as a university semester project
@@ -55,7 +55,7 @@ Built using HTML, CSS, JavaScript, AngularJS, and SQL.
 ### 📖 Quran Insight
 - Web application using Spring Boot and SQL
 - Displays Quranic insights, surahs, and tafsir  
-[🔗 GitHub Link or Demo if available]
+
 
 ---
 
